@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Dec 2014 16:08:56 +0800</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2014 16:08:56 +0800</lastBuildDate>
+    <title>Awesome Zone</title>
+    <description></description>
+    <link>http://dalonng.github.com/</link>
+    <atom:link href="http://dalonng.github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Dec 2014 09:35:38 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2014 09:35:38 +0000</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -27,9 +26,31 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 02 Dec 2014 00:08:31 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/12/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/12/02/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 01 Dec 2014 16:08:31 +0000</pubDate>
+        <link>http://dalonng.github.com/jekyll/update/2014/12/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://dalonng.github.com/jekyll/update/2014/12/01/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>假如生活欺骗了你!</title>
+        <description>&lt;p&gt;假如生活欺骗了你&lt;br /&gt;&lt;br /&gt;
+不要悲伤，不要心急！&lt;br /&gt;&lt;br /&gt;
+忧郁的日子里需要镇静：&lt;br /&gt;&lt;br /&gt;
+相信吧，快乐的日子将会来临。&lt;br /&gt;&lt;br /&gt;
+心儿永远向往着未来；&lt;br /&gt;&lt;br /&gt;
+现在却常是忧郁：&lt;br /&gt;&lt;br /&gt;
+一切都是瞬息，一切都将会过去；&lt;br /&gt;&lt;br /&gt;
+而那过去了的，就会成为亲切的怀恋。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Dec 2014 16:08:31 +0000</pubDate>
+        <link>http://dalonng.github.com/jekyll/update/2014/12/01/first.html</link>
+        <guid isPermaLink="true">http://dalonng.github.com/jekyll/update/2014/12/01/first.html</guid>
         
         
         <category>jekyll</category>
