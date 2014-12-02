@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "个人简历"
+date:   2014-12-02 23:00:00
+categories: jekyll update
+---
+姜大龙
+--------------------
+
+
+- dalonng@126.com
+- 151-0409-3911
+- QQ:361753080
+
+---
+
+教育背景
+---------
+
+2006-2010 
+:   **学士, 软件工程**; 大连民族学院
+
+---
+
+##工作经历
+
+### 大连慧搜网络技术公司 （ 2014年6月 ~ Now ）
+
+#### Comico 项目
+- 主要功能:漫画浏览(台湾版)
+- AppStore:[Comico](https://itunes.apple.com/cn/app/mian-fei-man-hua-comico-mei/id892368006?l=en&mt=8) 
+- 工作职责: 网络接口更新,扩展功能.
+
+### 自由职业 （ 2013年5月 ~ 2014年6月 ）
+
+#### Fidelity-Investments 项目
+- 公司:富达信息技术有限公司(外派)
+- 主要功能:股票基金交易(美国版)
+- AppStore:[Fidelity-Investments](https://itunes.apple.com/us/app/fidelity-investments/id348177453?mt=8) 
+- 工作职责: Watchlist部分代码重构及功能扩展.
+
+#### 银联随行 项目
+- 公司:中国银联公司(外派)
+- 主要功能:生活缴费,购物支付
+- AppStore:[银联随行](https://itunes.apple.com/cn/app/yin-lian-sui-xing/id433602054?l=en&mt=8) 
+- 工作职责: 历史查询及提醒日功能开发.
+
+#### 招行掌上生活 项目
+- 远程工作
+- 主要功能:招行信用卡管理,还款,商城购物
+- AppStore:[掌上生活](https://itunes.apple.com/cn/app/zhao-shang-yin-xing-xin-yong/id398453262?l=en&mt=8) 
+- 工作职责: 登陆,支付,安全键盘功能开发.
+
+
+### 大连慧搜网络技术公司 （ 2011年10月 ~ 2013年4月 ）
+
+#### 生活绘画词典 项目
+- 主要功能:旅游常用句子十三国语言翻译(日本版) 
+- 工作职责:数据库,网络更新部分开发.
+
+### 亿达信息技术公司 （ 2010年3月 ~ 2011年10月 ）
+
+#### 银联支付插件 项目
+- 主要功能:银联卡支付插件(SDK) 
+- AppStore:[爱买](https://itunes.apple.com/cn/app/ai-mai-tuan-gou-dao-hang-tao/id501950973?l=en&mt=8) 集成了该SDK
+- 工作职责:实现加密协议,安全键盘开发.
+
+#### 邦购商城 项目
+- 主要功能:服装购买
+- AppStore:[邦购商城](https://itunes.apple.com/cn/app/bang-gou-shang-cheng-mei-te/id427543233?l=en&mt=8) 集成了该SDK
+- 工作职责:购物列表,购物车功能开发.
+
+
+
+
+
+技术
+--------------------
+
+*  **Objective-C**
+*  **C++/C**
+*  **Swift**
+*  **Haskell**学习中
+
+语言
+--------------------
+
+     * 韩语 
+     * 日语(学习中)
+
+
