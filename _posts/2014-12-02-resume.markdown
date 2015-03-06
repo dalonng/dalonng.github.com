@@ -9,7 +9,6 @@ categories: jekyll update
 
 
 - dalonng@126.com
-- 151-0409-3911
 
 ---
 
