@@ -19,18 +19,20 @@ categories: jekyll update
 :   **学士, 软件工程**; 大连民族学院
 
 ---
-##简介
+
+## 简介
 - 熟悉Objective-C,了解C/C++,了解面向对象方法.
 - 了解MVC,MVVM框架,了解iOS常用设计模式.
 - 熟悉网络通讯原理,Http.
-##工作经历
+
+## 工作经历
 
 ### 大连慧搜网络技术公司 （ 2014年6月 ~ Now ）
 
 #### Comico 项目
 - 主要功能:漫画浏览(台湾版)
 - AppStore:[Comico](https://itunes.apple.com/cn/app/mian-fei-man-hua-comico-mei/id892368006?l=en&mt=8) 
-- 工作职责: 网络接口更新,扩展功能.
+- 工作职责: 网络接口更新,用户行为追踪功能，维护新版本.
 
 ### 自由职业 （ 2013年5月 ~ 2014年6月 ）
 
@@ -38,7 +40,7 @@ categories: jekyll update
 - 公司:富达信息技术有限公司(外派)
 - 主要功能:股票基金交易(美国版)
 - AppStore:[Fidelity-Investments](https://itunes.apple.com/us/app/fidelity-investments/id348177453?mt=8) 
-- 工作职责: Watchlist部分代码重构及功能扩展.
+- 工作职责: 股票价格表功能重构及扩展.
 
 #### 银联随行 项目
 - 公司:中国银联公司(外派)
@@ -57,7 +59,7 @@ categories: jekyll update
 
 #### 生活绘画词典 项目
 - 主要功能:旅游常用句子十三国语言翻译(日本版) 
-- 工作职责:数据库,网络更新部分开发.
+- 工作职责 sqlite,Http update部分开发.
 
 ### 亿达信息技术公司 （ 2010年3月 ~ 2011年10月 ）
 
