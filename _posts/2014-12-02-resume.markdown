@@ -25,6 +25,7 @@ categories: jekyll update
 - 熟悉Objective-C,熟悉C/C++,了解面向对象方法.
 - 熟悉MVC,MVVM框架,熟悉iOS常用设计模式.
 - 熟悉网络通讯原理,Http.
+- 具有责任心，知道团队合作的重要性.
 
 ## 工作经历
 
@@ -43,7 +44,7 @@ categories: jekyll update
 - 主要功能:股票基金交易(美国版)
 - AppStore:[Fidelity-Investments](https://itunes.apple.com/us/app/fidelity-investments/id348177453?mt=8) 
 - 工作职责: 股票价格表功能重构及扩展.
-- 技术要点: HTTP，XML，CoreData.
+- 技术要点: HTTP，XML，CoreData，git.
 
 #### 银联随行 项目
 - 公司:中国银联公司(外派)
