@@ -1,0 +1,32 @@
+# Fastlane 证书部分
+
+## 安装
+
+```
+gem install fastlane
+```
+
+## 生成证书
+
+```
+fastlane cert -u appleid --force
+```
+
+### 下载provisioning profile 文件
+
+```
+fastlane sigh -a bundleid -u appleid --[adhoc | development]
+```
+
+如果没有的话会创建 provisioning profile 文件并下载
+
+### 生成并下载推送文件
+
+```
+fastlane pem -p "p12password" -a bundleid -u appleid
+```
+
+
+
+
+
