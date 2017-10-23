@@ -30,7 +30,7 @@ published: false
 
 ## 工作经历
 
-### Boss直聘 （ 2016年8月 ~ NOW ）
+### Boss直聘 （ 2016年8月 ~ 2017年10月 ）
 - 主要功能: 店长直聘
 - 工作职责: 负责架构设计，模块开发，重构整个app，
 - 技术要点: 架构设计，重构，组件化App.
@@ -67,7 +67,7 @@ published: false
 #### 招行掌上生活 项目
 - 远程工作
 - 主要功能:招行信用卡管理,还款,商城购物
-- AppStore:[掌上生活](https://itunes.apple.com/cn/app/zhao-shang-yin-xing-xin-yong/id398453262?l=en&mt=8) 
+- AppStore:[掌上生活](https://itunes.apple.com/cn/app/zhao-shang-yin-xing-xin-yong/id398453262?l=en&mt=8) NOW
 - 工作职责: 登陆,支付,安全键盘功能开发.
 - 技术要点: HTTP，XML，ssl, rsa.
 
