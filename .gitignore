@@ -38,3 +38,5 @@ tramp
 
 # idea
 .idea/
+
+.jekyll-cache
