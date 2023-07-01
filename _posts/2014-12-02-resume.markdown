@@ -7,40 +7,56 @@ categories: jekyll update
 姜大龙
 --------------------
 
-
 - dalonng@gmail.com
-- 15104093911
+- **大连民族大学** 2006-2010 软件工程专业
 
 ---
 
 ## 简介
-从事软件开发八年，熟悉软件开发流程有敏捷开发经历，喜欢编写优秀的代码和高效的流程。具备Android开发经验，了解后台和前端开发技术。
 
-- 熟悉Objective-C，熟悉C/C++以及swift，了解面向对象方法.
-- 了解Android开发以及Java。
-- 熟悉MVC,MVVM框架, 架构设计, 重构,熟悉iOS常用设计模式.
-- 具有责任心，善于沟通.
+技术娴熟的 iOS 开发程序员，拥有 12 年的 iOS 开发经验，善于沟通和发现问题并优化工作流程。关键时刻也参与过前端和 Android 开发。拥有过完整的 Flutter 开发经验。开发 iOS Native 应用程序经验丰富，擅长 Swift、Objective-C、UIKit、自定义动画，架构设计等。具有组件化、构建优化、Swift 混编经验。帮助公司解决 Swift 组建混编问题。
 
 
 
-## 教育背景
+## 技能
 
-**大连民族大学** 2006-2010 
-**学士, 软件工程**
+- 熟练掌握 Swift、Objective-C、C，了解 Flutter、Dart；
+- 数量使用 AFNetworking、CoreData、FMDB 等库来应用于构建 App；
+- Xcode、VSCode、PyCharm、RubyMine、Linux;
+-  Python、Ruby、Shell、git；
+-  Agile 和 Scrum 工作流开发；
+- 熟练使用 ChatGPT。
 
 
 
 ## 工作经历
 ### 快手 （ 2020年2月 ~ NOW ）
 
-- 负责 A 站，重构、组件化、Swift 混编组件二进制化;
-- 快手横屏业务，Swift 实践;
+##### 快手 App
+
+- 负责放映厅、横屏、合集业务；
+- 带头 Swift 落地，重构和 Swift 基础库建设。
+
+##### A站
+
+- 负责 A 站 App 构建优化、个人主页业务
+- 实现 Swift 组建混编方案，并推广到公司级工具链中，解决 Swift 组建混编和二进制化的痛点。
+
+
+
 ### 小米 （ 2017年10月 ~ 2020年2月 ）
 
-- 负责iOS手环NFC功能开发，开公交卡充值，门禁卡发卡功能等。
-- 负责Android版本小米钱包公交业务功能开发。
-- 参与后台和前端业务开发，spring，js。
-- 在了解了安全芯片和APDU指令结构基础上，进行SDK的开发。从原来的服务器客户端二元模式变成服务器、SDK、手环，三元模式开发。在数据同步和架构设计上进行了更多的思考。
+##### 小米手环 SDK
+
+- 小米手环 iOS 公交卡 SDK 的开发，通过蓝牙实现公交卡开卡、充值、门禁卡功能；
+
+##### 天星银行
+
+- 天星银行 App 的转账功能以及 Jenkins、CI 搭建；
+
+- Flutter、Dart、VSCode。
+
+  
 
 ### Boss直聘 （ 2016年8月 ~ 2017年10月 ）
 
@@ -105,14 +121,3 @@ categories: jekyll update
 - AppStore:[邦购商城](https://itunes.apple.com/cn/app/bang-gou-shang-cheng-mei-te/id427543233?l=en&mt=8) 集成了该SDK
 - 工作职责:购物列表,购物车功能开发.
 - 技术要点: HTTP，JSON，CoreData.
-
-技术
---------------------
-
-*  **Objective-C**
-*  **C++/C**
-*  **Swift**
-*  **Java**
-*  **Haskell**学习中
-
-
