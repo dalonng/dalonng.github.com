@@ -25,24 +25,19 @@ categories: jekyll update
 - Xcode、VSCode、PyCharm、RubyMine、Linux;
 -  Python、Ruby、Shell、git；
 -  Agile 和 Scrum 工作流开发；
-- 熟练使用 ChatGPT。
-
 
 
 ## 工作经历
 ### 快手 （ 2020年2月 ~ NOW ）
 
-##### 快手 App
+##### 快手 & A 站
 
-- 负责放映厅、横屏、合集业务；
-- 带头 Swift 落地，重构和 Swift 基础库建设。
-
-##### A站
-
-- 负责 A 站 App 构建优化、个人主页业务
-- 实现 Swift 组建混编方案，并推广到公司级工具链中，解决 Swift 组建混编和二进制化的痛点。
-
-
+- 设计、开发和维护 Swift 和 Objective-C 的 iOS 应用程序；
+- 实现 Swift 组建混编方案，并推广到公司级工具链中，解决 Swift 组建混编和二进制化的痛点
+- 组件化、工程构建优化、架构设计
+- 与其他开发人员、设计师和产品负责人合作，确保项目的成功交付
+- 研究并及时了解最新的iOS技术和趋势
+- 开发和维护技术文档；
 
 ### 小米 （ 2017年10月 ~ 2020年2月 ）
 
@@ -52,11 +47,8 @@ categories: jekyll update
 
 ##### 天星银行
 
+- 设计、开发和维护 Swift 和 Flutter 的 iOS 应用程序；
 - 天星银行 App 的转账功能以及 Jenkins、CI 搭建；
-
-- Flutter、Dart、VSCode。
-
-  
 
 ### Boss直聘 （ 2016年8月 ~ 2017年10月 ）
 
