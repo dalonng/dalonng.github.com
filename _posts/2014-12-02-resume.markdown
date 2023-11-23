@@ -12,19 +12,25 @@ categories: jekyll update
 
 ---
 
-## 简介
+## 简介 & 技能
 
-技术娴熟的 iOS 开发程序员，拥有 12 年的 iOS 开发经验，善于沟通和发现问题并优化工作流程。关键时刻也参与过前端和 Android 开发。拥有过完整的 Flutter 开发经验。开发 iOS Native 应用程序经验丰富，擅长 Swift、Objective-C、UIKit、自定义动画，架构设计等。具有组件化、构建优化、Swift 混编经验。帮助公司解决 Swift 组建混编问题。
+技术娴熟的 iOS 开发程序员，拥有 12 年的 iOS 开发经验，善于沟通和发现问题并优化工作流程。拥有过完整的 Flutter 开发经验。开发 iOS Native 应用程序经验丰富，擅长 Swift、Objective-C、UIKit、自定义动画，架构设计等。具有组件化、构建优化、Swift 混编经验。帮助公司解决 Swift 组建混编问题。
 
 
 
 ## 技能
 
 - 熟练掌握 Swift、Objective-C、C，了解 Flutter、Dart；
-- 数量使用 AFNetworking、CoreData、FMDB 等库来应用于构建 App；
+
+- 项目管理和大型项目执行主R；
+
 - Xcode、VSCode、PyCharm、RubyMine、Linux;
--  Python、Ruby、Shell、git；
--  Agile 和 Scrum 工作流开发；
+
+- Python、Ruby、Shell、git；
+
+- Agile 和 Scrum 工作流开发；
+
+  
 
 
 ## 工作经历
@@ -33,10 +39,10 @@ categories: jekyll update
 ##### 快手 & A 站
 
 - 设计、开发和维护 Swift 和 Objective-C 的 iOS 应用程序；
-- 实现 Swift 组建混编方案，并推广到公司级工具链中，解决 Swift 组建混编和二进制化的痛点
-- 组件化、工程构建优化、架构设计
-- 与其他开发人员、设计师和产品负责人合作，确保项目的成功交付
-- 研究并及时了解最新的iOS技术和趋势
+- 实现 Swift 组建混编方案，并推广到公司级工具链中，解决 Swift 组建混编和二进制化的痛点;
+- 组件化、工程构建优化、架构设计;
+- 与其他开发人员、设计师和产品负责人合作，确保项目的成功交付;
+- 研究并及时了解最新的iOS技术和趋势;
 - 开发和维护技术文档；
 
 ### 小米 （ 2017年10月 ~ 2020年2月 ）
